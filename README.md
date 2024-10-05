@@ -1,6 +1,7 @@
 # Firstdemo
 This is my first git repository.
 <br>
-Editor :farhat mahir
+Editor :Farhat Bin Munsur Mahir
 AIUB
 3rd semseter
+ 
